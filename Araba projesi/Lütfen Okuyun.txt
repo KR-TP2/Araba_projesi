@@ -1,0 +1,3 @@
+Koddaki kumandaya ait olan hex kodlarını kumandanızın hex kodlarıyla değiştirmeniz gerekmektedir.
+Arabadaki hc04 mesafe sensörünün kodda da görüldüğü üzere herhangi bir işlevi yoktur. Arabayı mesafe sensörü kullanmadan da yapabilirsiniz.
+Motor sürücüye 12V 3A civarı bir güç kaynağı ile beslemenizi tavsiye ederim.
